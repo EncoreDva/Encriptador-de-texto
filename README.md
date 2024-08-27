@@ -2,15 +2,15 @@
 
 **Desafio de ALURA LATAM**
 
-Encripta y Dedsencripta las vocales de un texto ingresado.
+- Encripta y Dedsencripta las vocales de un texto ingresado.
 
 <h1>Herramientas Utilizadas </h1>
 
--*HTML
+- HTML
 
--*CSS
+- CSS
 
--*JavaScript
+- JavaScript
 
  <h1>Caracteristicas</h1>
 
@@ -18,5 +18,7 @@ Encripta y Dedsencripta las vocales de un texto ingresado.
 
 >Boton para copiar el texto resultante
 
- 
--Estado del proyecto: Finalizado
+
+
+
+# Estado del proyecto: Finalizado
