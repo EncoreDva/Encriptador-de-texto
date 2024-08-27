@@ -4,14 +4,14 @@
 Encripta y Dedsencripta las vocales de un texto ingresado.
 
 <h1>Herramientas Utilizadas </h1>
-*HTML
-*CSS
-*JavaScript
+-*HTML
+-*CSS
+-*JavaScript
 
  <h1>Caracteristicas</h1>
 
-*Desencripta texto *siempre y cuando* se sigan las reglas
-*Boton para copiar el texto resultante
+-*Desencripta texto *siempre y cuando* se sigan las reglas
+-*Boton para copiar el texto resultante
 
  
 -Estado del proyecto: Finalizado
