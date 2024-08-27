@@ -1,5 +1,5 @@
 <h1>ENCRIPTADOR</h1>
-*Desafio de ALURA LATAM*
+**Desafio de ALURA LATAM**
 
 Encripta y Dedsencripta las vocales de un texto ingresado.
 
