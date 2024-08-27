@@ -14,9 +14,9 @@ Encripta y Dedsencripta las vocales de un texto ingresado.
 
  <h1>Caracteristicas</h1>
 
--*Desencripta texto *siempre y cuando* se sigan las reglas
+>Desencripta texto *siempre y cuando* se sigan las reglas
 
--*Boton para copiar el texto resultante
+>Boton para copiar el texto resultante
 
  
 -Estado del proyecto: Finalizado
